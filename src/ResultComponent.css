@@ -1,0 +1,10 @@
+.result{
+    border:solid;
+    width:92%;
+    height:50px;
+    margin-bottom: 2%;
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(194, 207, 207);
+    border-color: rgb(194, 207, 207);
+}
